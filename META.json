@@ -34,7 +34,7 @@
    "provides" : {
       "MooseX::LeakCheck" : {
          "file" : "lib/MooseX/LeakCheck.pm",
-         "version" : "0.001"
+         "version" : "0.002"
       },
       "MooseX::LeakCheck::Meta::Attribute" : {
          "file" : "lib/MooseX/LeakCheck.pm",
@@ -57,5 +57,5 @@
          "url" : "http://github.com/exodist/MooseX-LeakCheck"
       }
    },
-   "version" : "0.001"
+   "version" : "0.002"
 }
