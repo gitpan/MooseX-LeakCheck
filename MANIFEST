@@ -1,0 +1,7 @@
+Build.PL
+lib/MooseX/LeakCheck.pm
+MANIFEST			This list of files
+t/attribute_leak_check.t
+README
+META.yml
+META.json
